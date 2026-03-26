@@ -15,21 +15,6 @@ The goal is to demonstrate:
 
 ---
 
-## Model
-
-Equations:
-
-z_1 = w_1 x + b_1  
-a_1 = sigmoid(z1)  
-
-z_2 = w_2 a_1 + b_2  
-a_2 = sigmoid(z2)  
-
-Loss:
-Binary cross-entropy
-
----
-
 ## Results
 
 - Model learns a step function
